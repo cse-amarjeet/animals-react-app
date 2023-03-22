@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with "animals-react-app"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a dummy project that has been created for learning purposes and is designed to showcase the functionality of a simple web application. Upon running the project, a button will appear on the screen. When this button is clicked, a new image will be displayed, along with a like button. Every time the like button is clicked, the image of a little heart will increase in size. This project provides an excellent opportunity to explore the basics of web development and familiarize oneself with Git and version control.
 
-## Available Scripts
+## Steps to run this Repo
 
-In the project directory, you can run:
+- Clone the project: Open your terminal or command prompt and navigate to the directory where you want to store the project. Then, run the following command to clone the project from the Git repository
+- "git clone <project link>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Install dependencies: Navigate to the root directory of the project in your terminal and run the following command to install the necessary dependencies:
+- "npm install" This will install all the required dependencies listed in the package.json file.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Start the development server by runing comman "npm run start"
 
-### `npm test`
+This will start the server and open the application in your default web browser.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Interact with the application: Once the application is running, you should see a button on the screen. Click on the button to display a new image with a like button. Click on the like button to increase the size of the heart image.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's it! You should now be able to run the project and interact with the basic functionality of the web application.
